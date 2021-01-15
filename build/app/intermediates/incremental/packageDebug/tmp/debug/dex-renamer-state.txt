@@ -1,0 +1,4 @@
+#Fri Jan 15 23:47:16 IST 2021
+base.0=/Users/deep/Desktop/Work/Authentication-in-Flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
